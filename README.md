@@ -1,2 +1,2 @@
-# C-Programs
-Basic Programs on C
+# C-Programs Bitwise Operators
+
